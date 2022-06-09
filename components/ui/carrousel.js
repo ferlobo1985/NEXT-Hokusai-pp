@@ -5,7 +5,7 @@ import Slider from "react-slick";
 
 
 const CarrouselComp = (props) => {
-    console.log(props)
+
 
     const settings = {
         dots: false,
